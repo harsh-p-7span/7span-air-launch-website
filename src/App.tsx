@@ -28,6 +28,8 @@ function App() {
 					alt="Launch button"
 					onClick={() => setShowLaunchButton(false)}
 				/>
+
+				<footer>Made with ❤️ by Harrsh Patel</footer>
 			</div>
 		);
 	}
