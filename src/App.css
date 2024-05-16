@@ -23,6 +23,7 @@ html {
 .container footer {
   position: absolute;
   bottom: 0;
+  color: #000000;
   padding-bottom: 1rem;
 }
 
